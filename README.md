@@ -9,7 +9,7 @@ This is the first application for the
 
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 
-by [Insert your name here]. Hello, world!
+by Vittunyuta Maeprasart. Hello, world!
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
